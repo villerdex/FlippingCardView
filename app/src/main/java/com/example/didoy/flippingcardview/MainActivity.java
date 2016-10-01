@@ -1,13 +1,7 @@
 package com.example.didoy.flippingcardview;
 
-import android.animation.Animator;
-import android.animation.ValueAnimator;
-import android.app.Activity;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.CardView;
 import android.widget.FrameLayout;
 
 import com.example.didoy.flippingcardview.Util.AnimateUtil;
