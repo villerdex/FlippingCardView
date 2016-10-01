@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlippingCardView</string>
+    <string name="card_desc">This is the coffee banner of the company, Specialize in brewing coffee</string>
+    <integer name="card_flip_time_full">1000</integer>
+    <integer name="card_flip_time_half">500</integer>
+
+</resources>
